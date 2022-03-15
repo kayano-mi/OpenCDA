@@ -1,4 +1,5 @@
 matplotlib==3.4.2
+shapely==1.7.1
 networkx==2.5.1
 numpy
 pillow
